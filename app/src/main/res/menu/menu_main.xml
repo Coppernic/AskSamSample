@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fr.coppernic.samples.asksam.MainActivity">
+    <item android:id="@+id/action_clear" android:orderInCategory="100"
+        android:icon="@drawable/ic_delete_24dp"
+        android:title="@string/action_settings" app:showAsAction="ifRoom" />
+</menu>

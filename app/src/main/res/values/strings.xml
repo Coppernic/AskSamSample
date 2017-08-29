@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASK SAM Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="in">&gt;&gt;</string>
+    <string name="out">&lt;&lt;</string>
+    <string name="status">Status:</string>
+</resources>
